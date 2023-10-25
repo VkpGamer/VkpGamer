@@ -1,8 +1,7 @@
 """
-Name: Vincent Penick
+Name: VkpGamer
 
 Date: 9/6/2023
-Class: CSSE, Guillaume, Tri 1 2023 
 Game: Steve Stickman
 
 Description:
